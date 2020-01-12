@@ -1,0 +1,420 @@
+2020-01-12T09:38:32+00:00 CRITICAL syntax error, unexpected ')', expecting ',' or ';' в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\woocommerce\loop\add-to-cart.php на строке 35
+
+2020-01-12T09:44:24+00:00 CRITICAL syntax error, unexpected '<', expecting end of file в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\functions.php на строке 91
+
+2020-01-12T10:38:03+00:00 CRITICAL Uncaught Error: Call to undefined function main_post_thumbnail() in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\template-parts\content-page.php:17
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\template.php(724): require()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\template.php(671): load_template('D:\\OSPanel\\doma...', false)
+#2 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\page.php(25): get_template_part('template-parts/...', 'page')
+#4 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\template-loader.php(98): include('D:\\OSPanel\\doma...')
+#5 D:\OSPanel\domains\A-WORDPRESS5\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\A-WORDPRESS5\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\template-parts\content-page.php на строке 17
+
+2020-01-12T10:38:17+00:00 CRITICAL Uncaught Error: Call to undefined function main_post_thumbnail() in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\template-parts\content-page.php:17
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\template.php(724): require()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\template.php(671): load_template('D:\\OSPanel\\doma...', false)
+#2 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\page.php(25): get_template_part('template-parts/...', 'page')
+#4 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\template-loader.php(98): include('D:\\OSPanel\\doma...')
+#5 D:\OSPanel\domains\A-WORDPRESS5\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\A-WORDPRESS5\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\template-parts\content-page.php на строке 17
+
+2020-01-12T10:43:25+00:00 CRITICAL Uncaught Error: Call to undefined function main_post_thumbnail() in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\template-parts\content-page.php:17
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\template.php(724): require()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\template.php(671): load_template('D:\\OSPanel\\doma...', false)
+#2 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\page.php(25): get_template_part('template-parts/...', 'page')
+#4 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\template-loader.php(98): include('D:\\OSPanel\\doma...')
+#5 D:\OSPanel\domains\A-WORDPRESS5\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\A-WORDPRESS5\index.php(17): require('D:\\OSPanel\\doma...')
+#7 {main}
+  thrown в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\template-parts\content-page.php на строке 17
+
+2020-01-12T10:56:49+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php:35
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\template-loader.php(98): include()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#2 D:\OSPanel\domains\A-WORDPRESS5\index.php(17): require('D:\\OSPanel\\doma...')
+#3 {main}
+  thrown в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php на строке 35
+
+2020-01-12T10:59:50+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php:48
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\template-loader.php(98): include()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#2 D:\OSPanel\domains\A-WORDPRESS5\index.php(17): require('D:\\OSPanel\\doma...')
+#3 {main}
+  thrown в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php на строке 48
+
+2020-01-12T11:05:53+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php:38
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\template-loader.php(98): include()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#2 D:\OSPanel\domains\A-WORDPRESS5\index.php(17): require('D:\\OSPanel\\doma...')
+#3 {main}
+  thrown в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php на строке 38
+
+2020-01-12T11:07:12+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php:42
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\template-loader.php(98): include()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#2 D:\OSPanel\domains\A-WORDPRESS5\index.php(17): require('D:\\OSPanel\\doma...')
+#3 {main}
+  thrown в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php на строке 42
+
+2020-01-12T11:07:33+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php:42
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\template-loader.php(98): include()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#2 D:\OSPanel\domains\A-WORDPRESS5\index.php(17): require('D:\\OSPanel\\doma...')
+#3 {main}
+  thrown в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php на строке 42
+
+2020-01-12T12:41:16+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php:45
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\template-loader.php(98): include()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#2 D:\OSPanel\domains\A-WORDPRESS5\index.php(17): require('D:\\OSPanel\\doma...')
+#3 {main}
+  thrown в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php на строке 45
+
+2020-01-12T12:41:46+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php:59
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\template-loader.php(98): include()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#2 D:\OSPanel\domains\A-WORDPRESS5\index.php(17): require('D:\\OSPanel\\doma...')
+#3 {main}
+  thrown в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php на строке 59
+
+2020-01-12T12:42:43+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php:42
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\template-loader.php(98): include()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#2 D:\OSPanel\domains\A-WORDPRESS5\index.php(17): require('D:\\OSPanel\\doma...')
+#3 {main}
+  thrown в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php на строке 42
+
+2020-01-12T12:43:07+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php:60
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\template-loader.php(98): include()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#2 D:\OSPanel\domains\A-WORDPRESS5\index.php(17): require('D:\\OSPanel\\doma...')
+#3 {main}
+  thrown в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php на строке 60
+
+2020-01-12T12:43:26+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php:60
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\template-loader.php(98): include()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#2 D:\OSPanel\domains\A-WORDPRESS5\index.php(17): require('D:\\OSPanel\\doma...')
+#3 {main}
+  thrown в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php на строке 60
+
+2020-01-12T12:44:59+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php:53
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\template-loader.php(98): include()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#2 D:\OSPanel\domains\A-WORDPRESS5\index.php(17): require('D:\\OSPanel\\doma...')
+#3 {main}
+  thrown в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php на строке 53
+
+2020-01-12T12:45:14+00:00 CRITICAL Uncaught Error: Call to a member function is_registration_enabled() on null in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php:44
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\template-loader.php(98): include()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#2 D:\OSPanel\domains\A-WORDPRESS5\index.php(17): require('D:\\OSPanel\\doma...')
+#3 {main}
+  thrown в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php на строке 44
+
+2020-01-12T13:06:17+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php:53
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\template-loader.php(98): include()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#2 D:\OSPanel\domains\A-WORDPRESS5\index.php(17): require('D:\\OSPanel\\doma...')
+#3 {main}
+  thrown в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php на строке 53
+
+2020-01-12T13:06:37+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php:42
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\template-loader.php(98): include()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#2 D:\OSPanel\domains\A-WORDPRESS5\index.php(17): require('D:\\OSPanel\\doma...')
+#3 {main}
+  thrown в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php на строке 42
+
+2020-01-12T13:10:28+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php:57
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\template-loader.php(98): include()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#2 D:\OSPanel\domains\A-WORDPRESS5\index.php(17): require('D:\\OSPanel\\doma...')
+#3 {main}
+  thrown в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php на строке 57
+
+2020-01-12T13:11:56+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php:37
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\template-loader.php(98): include()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#2 D:\OSPanel\domains\A-WORDPRESS5\index.php(17): require('D:\\OSPanel\\doma...')
+#3 {main}
+  thrown в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php на строке 37
+
+2020-01-12T13:12:42+00:00 CRITICAL Uncaught Error: Call to a member function get_order_number() on string in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php:28
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\template-loader.php(98): include()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#2 D:\OSPanel\domains\A-WORDPRESS5\index.php(17): require('D:\\OSPanel\\doma...')
+#3 {main}
+  thrown в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php на строке 28
+
+2020-01-12T13:14:34+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php:46
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\template-loader.php(98): include()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#2 D:\OSPanel\domains\A-WORDPRESS5\index.php(17): require('D:\\OSPanel\\doma...')
+#3 {main}
+  thrown в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php на строке 46
+
+2020-01-12T13:14:50+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php:36
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\template-loader.php(98): include()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#2 D:\OSPanel\domains\A-WORDPRESS5\index.php(17): require('D:\\OSPanel\\doma...')
+#3 {main}
+  thrown в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php на строке 36
+
+2020-01-12T13:42:54+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php:42
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\template-loader.php(98): include()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#2 D:\OSPanel\domains\A-WORDPRESS5\index.php(17): require('D:\\OSPanel\\doma...')
+#3 {main}
+  thrown в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php на строке 42
+
+2020-01-12T13:43:38+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php:37
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\template-loader.php(98): include()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#2 D:\OSPanel\domains\A-WORDPRESS5\index.php(17): require('D:\\OSPanel\\doma...')
+#3 {main}
+  thrown в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php на строке 37
+
+2020-01-12T13:44:16+00:00 CRITICAL Uncaught Error: Call to a member function is_registration_enabled() on null in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php:13
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\template-loader.php(98): include()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#2 D:\OSPanel\domains\A-WORDPRESS5\index.php(17): require('D:\\OSPanel\\doma...')
+#3 {main}
+  thrown в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php на строке 13
+
+2020-01-12T13:45:07+00:00 CRITICAL syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php на строке 57
+
+2020-01-12T13:45:33+00:00 CRITICAL Uncaught Error: Call to a member function is_registration_enabled() on null in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php:13
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\template-loader.php(98): include()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#2 D:\OSPanel\domains\A-WORDPRESS5\index.php(17): require('D:\\OSPanel\\doma...')
+#3 {main}
+  thrown в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php на строке 13
+
+2020-01-12T13:53:00+00:00 CRITICAL Uncaught Error: Call to a member function is_registration_enabled() on null in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php:13
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\template-loader.php(98): include()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#2 D:\OSPanel\domains\A-WORDPRESS5\index.php(17): require('D:\\OSPanel\\doma...')
+#3 {main}
+  thrown в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php на строке 13
+
+2020-01-12T13:53:28+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php:42
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\template-loader.php(98): include()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#2 D:\OSPanel\domains\A-WORDPRESS5\index.php(17): require('D:\\OSPanel\\doma...')
+#3 {main}
+  thrown в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php на строке 42
+
+2020-01-12T13:56:26+00:00 CRITICAL Cannot redeclare custom_my_fields() (previously declared in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\woocommerce\includes\woo-functions.php:182) в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php на строке 44
+
+2020-01-12T14:14:03+00:00 CRITICAL Uncaught Error: Call to a member function is_registration_enabled() on null in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php:13
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\template-loader.php(98): include()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#2 D:\OSPanel\domains\A-WORDPRESS5\index.php(17): require('D:\\OSPanel\\doma...')
+#3 {main}
+  thrown в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php на строке 13
+
+2020-01-12T14:15:26+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php:22
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\template-loader.php(98): include()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#2 D:\OSPanel\domains\A-WORDPRESS5\index.php(17): require('D:\\OSPanel\\doma...')
+#3 {main}
+  thrown в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php на строке 22
+
+2020-01-12T17:50:48+00:00 CRITICAL Uncaught Error: Cannot instantiate abstract class WC_Abstract_Order in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\woocommerce\checkout\form-checkout.php:136
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(285): wc_get_template('checkout/form-c...', Array)
+#2 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(67): WC_Shortcode_Checkout::checkout()
+#3 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocomm в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\woocommerce\checkout\form-checkout.php на строке 136
+
+2020-01-12T18:08:15+00:00 CRITICAL Uncaught Error: Call to undefined function get_shipping_methods() in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\woocommerce\checkout\form-checkout.php:135
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(285): wc_get_template('checkout/form-c...', Array)
+#2 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(67): WC_Shortcode_Checkout::checkout()
+#3 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommer в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\woocommerce\checkout\form-checkout.php на строке 135
+
+2020-01-12T18:09:07+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Shipping::get_shipping() in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\woocommerce\checkout\form-checkout.php:135
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(285): wc_get_template('checkout/form-c...', Array)
+#2 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(67): WC_Shortcode_Checkout::checkout()
+#3 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocom в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\woocommerce\checkout\form-checkout.php на строке 135
+
+2020-01-12T18:09:19+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Shipping::get_shipping() in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\woocommerce\checkout\form-checkout.php:135
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(285): wc_get_template('checkout/form-c...', Array)
+#2 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(67): WC_Shortcode_Checkout::checkout()
+#3 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocom в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\woocommerce\checkout\form-checkout.php на строке 135
+
+2020-01-12T18:09:52+00:00 CRITICAL Uncaught Error: Call to a member function methods() on null in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\woocommerce\checkout\form-checkout.php:135
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(285): wc_get_template('checkout/form-c...', Array)
+#2 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(67): WC_Shortcode_Checkout::checkout()
+#3 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\woocommerce\checkout\form-checkout.php на строке 135
+
+2020-01-12T18:20:08+00:00 CRITICAL Uncaught Error: Call to a member function rates() on array in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\woocommerce\checkout\form-checkout.php:132
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(285): wc_get_template('checkout/form-c...', Array)
+#2 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(67): WC_Shortcode_Checkout::checkout()
+#3 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_che. в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\woocommerce\checkout\form-checkout.php на строке 132
+
+2020-01-12T18:30:51+00:00 CRITICAL Object of class WC_Shipping_Rate could not be converted to string в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\woocommerce\checkout\form-checkout.php на строке 139
+
+2020-01-12T18:34:51+00:00 CRITICAL Uncaught Error: Call to a member function get_label() on null in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\woocommerce\checkout\form-checkout.php:122
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(285): wc_get_template('checkout/form-c...', Array)
+#2 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(67): WC_Shortcode_Checkout::checkout()
+#3 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_c в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\woocommerce\checkout\form-checkout.php на строке 122
+
+2020-01-12T18:56:15+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Shipping_Rate as array in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\woocommerce\checkout\form-checkout.php:123
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(285): wc_get_template('checkout/form-c...', Array)
+#2 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(67): WC_Shortcode_Checkout::checkout()
+#3 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocomm в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\woocommerce\checkout\form-checkout.php на строке 123
+
+2020-01-12T18:56:51+00:00 CRITICAL Object of class WC_Shipping_Rate could not be converted to string в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\woocommerce\checkout\form-checkout.php на строке 126
+
+2020-01-12T18:57:02+00:00 CRITICAL syntax error, unexpected '?>' в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\woocommerce\checkout\form-checkout.php на строке 126
+
+2020-01-12T19:20:49+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php:56
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\template-loader.php(98): include()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-blog-header.php(19): require_once('D:\\OSPanel\\doma...')
+#2 D:\OSPanel\domains\A-WORDPRESS5\index.php(17): require('D:\\OSPanel\\doma...')
+#3 {main}
+  thrown в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\templates\checkout.php на строке 56
+
+2020-01-12T19:35:14+00:00 CRITICAL Uncaught Error: Call to a member function get_title() on null in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\woocommerce\checkout\form-checkout.php:166
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(285): wc_get_template('checkout/form-c...', Array)
+#2 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(67): WC_Shortcode_Checkout::checkout()
+#3 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_c в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\woocommerce\checkout\form-checkout.php на строке 166
+
+2020-01-12T19:47:50+00:00 CRITICAL Uncaught Error: Call to a member function get_title() on null in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\woocommerce\checkout\form-checkout.php:169
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(285): wc_get_template('checkout/form-c...', Array)
+#2 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(67): WC_Shortcode_Checkout::checkout()
+#3 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_c в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\woocommerce\checkout\form-checkout.php на строке 169
+
+2020-01-12T19:48:20+00:00 CRITICAL Uncaught Error: Call to a member function get_title() on null in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\woocommerce\checkout\form-checkout.php:170
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(285): wc_get_template('checkout/form-c...', Array)
+#2 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(67): WC_Shortcode_Checkout::checkout()
+#3 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommerce_c в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\woocommerce\checkout\form-checkout.php на строке 170
+
+2020-01-12T20:29:05+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Shipping_Rate::cost() in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\woocommerce\checkout\form-checkout.php:124
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(285): wc_get_template('checkout/form-c...', Array)
+#2 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(67): WC_Shortcode_Checkout::checkout()
+#3 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommer в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\woocommerce\checkout\form-checkout.php на строке 124
+
+2020-01-12T21:05:41+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Gateway_COD as array in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\woocommerce\checkout\form-checkout.php:164
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(285): wc_get_template('checkout/form-c...', Array)
+#2 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(67): WC_Shortcode_Checkout::checkout()
+#3 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommer в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\woocommerce\checkout\form-checkout.php на строке 164
+
+2020-01-12T21:06:39+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Gateway_COD as array in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\woocommerce\checkout\form-checkout.php:165
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(285): wc_get_template('checkout/form-c...', Array)
+#2 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(67): WC_Shortcode_Checkout::checkout()
+#3 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 D:\OSPanel\domains\A-WORDPRESS5\wp-includes\shortcodes.php(325): WC_Shortcodes::checkout('', '', 'woocommer в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\woocommerce\checkout\form-checkout.php на строке 165
+
+2020-01-12T21:22:51+00:00 CRITICAL Uncaught Error: Call to a member function get_title() on null in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\woocommerce\checkout\payment-method.php:26
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\woocommerce\checkout\form-checkout.php(152): wc_get_template('checkout/paymen...')
+#2 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include('D:\\OSPanel\\doma...')
+#3 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(285): wc_get_template('checkout/form-c...', Array)
+#4 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(67): WC_Shortcode_Checkout::checkout()
+#5 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcod в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\woocommerce\checkout\payment-method.php на строке 26
+
+2020-01-12T21:23:34+00:00 CRITICAL Uncaught Error: Call to a member function get_title() on null in D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\woocommerce\checkout\payment-method.php:26
+Stack trace:
+#0 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include()
+#1 D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\woocommerce\checkout\form-checkout.php(152): wc_get_template('checkout/paymen...')
+#2 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\wc-core-functions.php(249): include('D:\\OSPanel\\doma...')
+#3 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(285): wc_get_template('checkout/form-c...', Array)
+#4 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-checkout.php(67): WC_Shortcode_Checkout::checkout()
+#5 D:\OSPanel\domains\A-WORDPRESS5\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcod в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\woocommerce\checkout\payment-method.php на строке 26
+
+2020-01-12T21:38:33+00:00 CRITICAL syntax error, unexpected '}' в D:\OSPanel\domains\A-WORDPRESS5\wp-content\themes\e-shop-grodno\woocommerce\checkout\form-checkout.php на строке 65
+

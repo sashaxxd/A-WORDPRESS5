@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Page</title>
+<meta name="generator" content="WYSIWYG Web Builder 12 - http://www.wysiwygwebbuilder.com">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="Untitled2.css" rel="stylesheet">
+<link href="index.css" rel="stylesheet">
+</head>
+<body>
+   <div id="modal_window" class="modal fade" role="dialog">
+      <div class="modal-dialog">
+         <div class="modal-content">
+            <div class="modal-body">
+               <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+               <hr id="modal_line">
+               <div id="wb_mod_cont">
+                  <div id="mod_cont">
+                     <div class="row">
+                        <div class="col-mod-1">
+                           <div id="wb_modal_title">
+                              <span id="wb_uid0">ТОВАР ДОБАВЛЕН В КОРЗИНУ</span>
+                           </div>
+                           <div id="wb_modal_product">
+                              <span id="wb_uid1"><br>Название товара</span>
+                           </div>
+                           <input type="button" id="modal_shopping" onclick="$('#modal_window').modal('show');return false;" name="" value="ПРОДОЛЖИТЬ ПОКУПКИ" class="button_m">
+                           <input type="button" id="modal_cart" onclick="$('#modal_window').modal('show');return false;" name="" value="ПЕРЕЙТИ В КОРЗИНУ" class="button_m">
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+   <script src="jquery-1.12.4.min.js"></script>
+   <script src="transition.min.js"></script>
+   <script src="modal.min.js"></script>
+   <script src="wwb12.min.js"></script>
+   <script>   
+   $(document).ready(function()
+   {
+      $("#modal_window").modal('show');
+   });
+   </script>
+</body>
+</html>
